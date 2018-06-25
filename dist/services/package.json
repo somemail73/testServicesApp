@@ -1,0 +1,22 @@
+{
+  "name": "somemail73-test-services",
+  "version": "0.0.14",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "@ngrx/store": "^6.0.1",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/somemail73-test-services.umd.js",
+  "module": "fesm5/somemail73-test-services.js",
+  "es2015": "fesm2015/somemail73-test-services.js",
+  "esm5": "esm5/somemail73-test-services.js",
+  "esm2015": "esm2015/somemail73-test-services.js",
+  "fesm5": "fesm5/somemail73-test-services.js",
+  "fesm2015": "fesm2015/somemail73-test-services.js",
+  "typings": "somemail73-test-services.d.ts",
+  "metadata": "somemail73-test-services.metadata.json",
+  "sideEffects": false
+}
